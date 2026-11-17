@@ -15,3 +15,4 @@ HTML, CSS.
 ## Запуск
 
 Открыть файл `index.html` в браузере.
+Ссылка на репозиторий: https://github.com/Yaroslava-Shishkina/ono-tebe-nado-ad
